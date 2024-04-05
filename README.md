@@ -8,5 +8,9 @@ Here are some ideas to get you started:
 - 💻🐍 Python
 - 🎤 Mentor
 -->
+- ✌️ My name is Tetiana
+- 💻🐍 Python
+- 🎤 Mentor
+  
 📎 Socials:
 [![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)](https://www.linkedin.com/in/tetiana-kukhelna/)
