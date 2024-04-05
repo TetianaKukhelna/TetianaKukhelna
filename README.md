@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🎤 Mentor
   
 📎 Socials:
-[![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)](https://www.linkedin.com/in/tetiana-kukhelna/)
+[![LinkedIn][<img src="https://fontawesome.com/icons/linkedin?style=brands" width="30"/>]](https://www.linkedin.com/in/tetiana-kukhelna/)
